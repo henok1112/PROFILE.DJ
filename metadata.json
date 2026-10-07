@@ -1,0 +1,6 @@
+{
+  "name": "PROFILE.DJ",
+  "description": "Multi-user digital profile platform. Create your profile, get your own link, and share your identity anywhere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
